@@ -7,7 +7,7 @@
 							<a href="javascript:void(0);" class="search pull-left"><i class="fa fa-search"></i></a>
 							<a href="tel:+3466256696" class="phone arabic_fix pull-left">(+34) 66256696</a>
 							<ul class=pull-left style="margin-left:20px">
-								<?php pll_the_languages( array( 'show_flags' => 3,'show_names' => 0 ) ); ?>
+							<?php pll_the_languages( array( 'show_flags' => 3,'show_names' => 0 ) ); ?>
 							</ul>
 				        </div>
 					</div>
@@ -132,7 +132,15 @@
 		<a href="sha-alicante-spain/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
 		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/maternity.jpg" class="menu-image menu-image-title-below" alt="" />
 		<span class="menu-image-title">About Yolanda</span></a></li>
-	<li id="menu-item-6974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-697">
+	<li id="menu-item-697d4" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-697">
+		<a href="facilities/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
+		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/pregnancypilates.jpg" class="menu-image menu-image-title-below" alt="" s
+		<span class="menu-image-title">Location</span></a></li>
+	<li id="menu-item-697gd4" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-697g">
+		<a href="facilities/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
+		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/pregnancypilates.jpg" class="menu-image menu-image-title-below" alt="" s
+		<span class="menu-image-title">Testimonials</span></a></li>
+	<li id="menu-item-69742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6972">
 		<a href="facilities/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
 		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/pregnancypilates.jpg" class="menu-image menu-image-title-below" alt="" s
 		<span class="menu-image-title">FAQs</span></a></li>
@@ -142,7 +150,6 @@
 
 
 
-<li id="menu-item-1269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1269"><a href="about/index.html" class="menu-image-title-after"><span class="menu-image-title">About Yolanda</span></a></li>
 </ul>			</div>	
 					<div class="rrss">
 						<a href="https://www.facebook.com/terapiapositiva/" target="_blank"><i class="fa fa-facebook"></i></a>
