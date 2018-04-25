@@ -1,0 +1,265 @@
+/*
+--------------
+WEATHER ARTILL ICONS
+--------------
+*/
+@font-face {
+	font-family: 'Weather';
+	src: url('../fonts/artillcleanweathericons-Regular.eot');
+	src: url('../fonts/artillcleanweathericons-Regulard41d.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/artillcleanweathericons-Regular.woff2') format('woff2'),
+		url('../fonts/artillcleanweathericons-Regular.woff') format('woff'),
+		url('../fonts/artillcleanweathericons-Regular.ttf') format('truetype'),
+		url('../fonts/artillcleanweathericons-Regular.svg#artillcleanweathericons-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+/*
+--------------
+Sha Icons
+--------------
+*/
+@font-face {
+	font-family: 'Sha';
+	src:  url('../fonts/shacd01.eot?cjxtwt');
+	src:  url('../fonts/shacd01.eot?cjxtwt#iefix') format('embedded-opentype'),
+		url('../fonts/shacd01.woff2?cjxtwt') format('woff2'),
+		url('../fonts/shacd01.ttf?cjxtwt') format('truetype'),
+		url('../fonts/shacd01.woff?cjxtwt') format('woff'),
+		url('../fonts/shacd01.svg?cjxtwt#sha') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="icon-"], [class*=" icon-"] {
+	position: relative;
+	display: inline-block;
+	font-family: 'Sha' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+    vertical-align: middle;
+    line-height: 1;
+	vertical-align: -3px;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-medico:before {
+  content: "\e924";
+  color: #aedac1;
+}
+.icon-mundo:before {
+  content: "\e925";
+  color: #abd6bd;
+}
+.icon-chef:before {
+  content: "\e926";
+  color: #aedac1;
+}
+.icon-zoom:before {
+  content: "\e923";
+}
+.icon-cart:before {
+  content: "\e91f";
+  color: #555;
+}
+.icon-share:before {
+  content: "\e920";
+  color: #555;
+}
+.icon-wishlist-o:before {
+  content: "\e921";
+  color: #555;
+}
+.icon-wishlist:before {
+  content: "\e922";
+  color: #aedac1;
+}
+.icon-ingredients:before {
+  content: "\e91c";
+}
+.icon-dish:before {
+  content: "\e91d";
+}
+.icon-time:before {
+  content: "\e91e";
+}
+.icon-cosmetica:before {
+  content: "\e919";
+}
+.icon-suplementos:before {
+  content: "\e91a";
+}
+.icon-vela:before {
+  content: "\e91b";
+}
+.icon-flight:before {
+  content: "\e917";
+}
+.icon-train:before {
+  content: "\e918";
+}
+.icon-suite-view:before {
+  content: "\e916";
+  color: #cacaca;
+}
+.icon-suite-jacuzzi:before {
+  content: "\e912";
+  color: #cacaca;
+}
+.icon-suite-sun:before {
+  content: "\e913";
+  color: #cacaca;
+}
+.icon-suite-room:before {
+  content: "\e914";
+  color: #cacaca;
+}
+.icon-suite-size:before {
+  content: "\e915";
+  color: #cacaca;
+}
+.icon-user-twin:before {
+  content: "\e90e";
+}
+.icon-user:before {
+  content: "\e90f";
+}
+.icon-phone:before {
+  content: "\e910";
+}
+.icon-email:before {
+  content: "\e911";
+}
+.icon-wellness:before {
+  content: "\e908";
+}
+.icon-apple:before {
+  content: "\e909";
+}
+.icon-training:before {
+  content: "\e90a";
+}
+.icon-jinjan:before {
+  content: "\e90b";
+}
+.icon-relax:before {
+  content: "\e90c";
+}
+.icon-fitness:before {
+  content: "\e90d";
+}
+.icon-play:before {
+  content: "\e907";
+  color: #fff;
+}
+.icon-calendar:before {
+  content: "\e903";
+}
+.icon-download:before {
+  content: "\e904";
+  color: #b9d8c0;
+}
+.icon-flag:before {
+  content: "\e905";
+}
+.icon-plus:before {
+  content: "\e906";
+  color: #b9d8c0;
+}
+.icon-hidrotherapy:before {
+  content: "\e900";
+  color: #b9d8c0;
+}
+.icon-academy:before {
+  content: "\e901";
+  color: #b9d8c0;
+}
+.icon-nutrition:before {
+  content: "\e902";
+  color: #b9d8c0;
+}
+
+
+/*
+--------------
+RUFINA
+--------------
+*/
+@font-face {
+	font-family: 'Rufina';
+	src: url('../fonts/Rufina-Regular.eot');
+	src: url('../fonts/Rufina-Regulard41d.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Rufina-Regular.woff2') format('woff2'),
+		url('../fonts/Rufina-Regular.woff') format('woff'),
+		url('../fonts/Rufina-Regular.ttf') format('truetype'),
+		url('../fonts/Rufina-Regular.svg#Rufina-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Rufina';
+	src: url('../fonts/Rufina-Bold.eot');
+	src: url('../fonts/Rufina-Boldd41d.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Rufina-Bold.woff2') format('woff2'),
+		url('../fonts/Rufina-Bold.woff') format('woff'),
+		url('../fonts/Rufina-Bold.ttf') format('truetype'),
+		url('../fonts/Rufina-Bold.svg#Rufina-Bold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+
+/*
+--------------
+HK GROTESTK
+--------------
+*/
+@font-face {
+	font-family: 'HK Grotesk';
+	src: url('../fonts/HKGrotesk-Light.eot');
+	src: url('../fonts/HKGrotesk-Lightd41d.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/HKGrotesk-Light.woff2') format('woff2'),
+		url('../fonts/HKGrotesk-Light.woff') format('woff'),
+		url('../fonts/HKGrotesk-Light.ttf') format('truetype'),
+		url('../fonts/HKGrotesk-Light.svg#HKGrotesk-Light') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'HK Grotesk';
+	src: url('../fonts/HKGrotesk-Regular.eot');
+	src: url('../fonts/HKGrotesk-Regulard41d.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/HKGrotesk-Regular.woff2') format('woff2'),
+		url('../fonts/HKGrotesk-Regular.woff') format('woff'),
+		url('../fonts/HKGrotesk-Regular.ttf') format('truetype'),
+		url('../fonts/HKGrotesk-Regular.svg#HKGrotesk-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'HK Grotesk';
+	src: url('../fonts/HKGrotesk-Medium.eot');
+	src: url('../fonts/HKGrotesk-Mediumd41d.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/HKGrotesk-Medium.woff2') format('woff2'),
+		url('../fonts/HKGrotesk-Medium.woff') format('woff'),
+		url('../fonts/HKGrotesk-Medium.ttf') format('truetype'),
+		url('../fonts/HKGrotesk-Medium.svg#HKGrotesk-Medium') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'HK Grotesk';
+	src: url('../fonts/HKGrotesk-Bold.eot');
+	src: url('../fonts/HKGrotesk-Boldd41d.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/HKGrotesk-Bold.woff2') format('woff2'),
+		url('../fonts/HKGrotesk-Bold.woff') format('woff'),
+		url('../fonts/HKGrotesk-Bold.ttf') format('truetype'),
+		url('../fonts/HKGrotesk-Bold.svg#HKGrotesk-Bold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}

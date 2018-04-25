@@ -1,0 +1,183 @@
+html[lang="ar"] .pull-left{
+	float: right !important;
+}
+html[lang="ar"] .pull-right{
+	float: left !important;
+}
+
+html[lang="ar"] .text-left{
+	text-align: right !important;
+}
+html[lang="ar"] .text-right{
+	text-align: left !important;
+}
+html[lang="ar"] .link .fa-angle-right{
+	padding-left: 0px;
+	padding-right: 1px;
+}
+html[lang="ar"] .link .fa-angle-left{
+	padding-left: 1px;
+	padding-right: 0px;
+}
+html[lang="ar"] a:hover .link .fa-angle-right,
+html[lang="ar"] .link:hover .fa-angle-right,
+html[lang="ar"] a:hover .link-negative .fa-angle-right,
+html[lang="ar"] .link-negative:hover .fa-angle-right{
+    -webkit-transform: translateX(-5px);
+    transform: translateX(-5px);	
+}
+
+html[lang="ar"] .link .fa-angle-right:before,
+html[lang="ar"] .link-negative .fa-angle-right:before{
+	display: inline-block;
+	transform: rotate(-180deg);
+}
+html[lang="ar"] a:hover .link .fa-angle-left,
+html[lang="ar"] .link:hover .fa-angle-left,
+html[lang="ar"] a:hover .link-negative .fa-angle-left,
+html[lang="ar"] .link-negative:hover .fa-angle-left{
+	-webkit-transform: translateX(5px);
+	        transform: translateX(5px);
+}
+html[lang="ar"] .link .fa-angle-left:before,
+html[lang="ar"] .link-negative .fa-angle-left:before{
+	display: inline-block;
+	transform: rotate(180deg);
+}
+html[lang="ar"] .card-ls .card .text-container .label{
+	text-align: right;
+}
+html[lang="ar"] #filter-programas .box .title{
+	text-align: right;
+}
+html[lang="ar"] .hero-image .container .label{
+	text-align: right;
+}
+html[lang="ar"]	.site-header .lang{
+	float: left !important;
+	right: auto;
+	left: 15px;
+}
+html[lang="ar"] .site-prefooter .weather .temperature .changer a{
+	float: right;
+	margin-right: 0px;
+	margin-left: 10px;
+}
+html[lang="ar"] .site-prefooter .weather .temperature .changer a:before{
+	left: -5px;	
+}
+html[lang="ar"] .site-prefooter .label{
+	margin-right: 0px;
+	margin-left: 30px;
+}
+html[lang="ar"] .form .form-group label, .form .form-group .label{
+	text-align: right;
+}
+html[lang="ar"] .form .form-group input[type="radio"],
+html[lang="ar"] .form .form-group input[type="checkbox"]{
+	float: right !important;
+}
+html[lang="ar"] .radio input[type=radio],
+html[lang="ar"] .radio-inline input[type=radio],
+html[lang="ar"] .checkbox input[type=checkbox],
+html[lang="ar"] .checkbox-inline input[type=checkbox],
+html[lang="ar"] .form .form-group input[type="radio"],
+html[lang="ar"] .form .form-group input[type="checkbox"],
+html[lang="ar"] .checkbox input[type="radio"] + .label:before,
+html[lang="ar"] .checkbox input[type="checkbox"] + .label:before,
+html[lang="ar"] .checkbox input[type="radio"]:checked + .label:after,
+html[lang="ar"] .checkbox input[type="checkbox"]:checked + .label:after{
+	left: auto;
+	right: 0px;
+	margin-left: 10px;
+	margin-right: 0px;
+	font-size: 10px;
+	font-size: 1rem;
+}
+
+html[lang="ar"] .toggles-container .toggle .toggle-title{
+	padding-right: 0px;
+	padding-left: 55px;
+}
+html[lang="ar"] .toggles-container .toggle .toggle-title .fa{
+	float: left;
+	left: 0px;
+	top: 15px;
+	right: auto;
+}
+
+
+html[lang="ar"] .block-w-image-3 .text-container{
+    padding: 60px;
+    padding-left: 60px;
+    padding-right: 120px;
+    right: auto;
+    left: 0px;	
+}
+html[lang="ar"] .content-editor ul{
+	padding-left: 0px;
+	padding-right: 20px;
+}
+html[lang="ar"] #page-suites .gallery-container .thumbnails{
+	left: 0px;
+}
+html[lang="ar"] #page-residences .gallery-container .thumbnails{
+	left: 0px;
+}
+
+html[lang="ar"] #page-instalaciones .slider-tabs-container ul li{
+	float: right;
+}
+html[lang="ar"] #page-instalaciones .virtual-tour .iframe-container{
+	left: auto;
+	right: 50%;
+    -webkit-transform: translateX(50%);
+    transform: translateX(50%);
+}
+html[lang="ar"] #single-programas .nav.nav-pills{
+	padding-right: 0px;
+}
+html[lang="ar"] #single-programas .nav.nav-pills li{
+	margin-right: 0px;
+	margin-left: 20px;
+}
+html[lang="ar"] #single-programas .nav.nav-pills li a:before{
+	float: right;
+	margin-right: 0px;
+	margin-left: 10px;
+}
+html[lang="ar"] #single-programas .nav.nav-pills li.active a:after{
+	left: auto;
+	right: 4px;
+	margin-right: 0px;
+}
+html[lang="ar"] #single-programas .toggles-container .toggle .toggle-title .fa:before{
+	display: inline-block;
+	transform: rotate(-180deg);
+}
+html[lang="ar"] #single-programas .sidebar .description .groupicons-container .groupicon > .icon{
+	margin-right: 0px;
+	margin-left: 10px;
+}
+html[lang="ar"] #single-programas .sidebar .download .link .icon,
+html[lang="ar"] #single-programas .sidebar .description .groupicons-container .groupicon .tooltip-click{
+	margin-left: 0px;
+	margin-right: 10px;
+}
+html[lang="ar"] #single-suites .main .content .label,
+html[lang="ar"] #single-residences .main .content .label,
+html[lang="ar"] #single-programas .main .content .bottom .label,
+html[lang="ar"] #single-programas .main .content .top .label{
+	text-align: right;
+}
+html[lang="ar"] #page-metodo .visual-container{
+	margin-left: 0px;
+	margin-right: -20%;
+}
+
+html[lang="ar"] .arabic_fix{
+	direction: ltr;
+    unicode-bidi: embed;
+}
+
+

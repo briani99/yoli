@@ -1,0 +1,280 @@
+/*
+--------------------------------------------------------------------------------------------- 
+#page-areaclinica 
+---------------------------------------------------------------------------------------------
+*/
+#page-areaclinica{}
+#page-areaclinica{}
+#page-areaclinica .card .text-container .title{
+	min-height: 52px;
+}
+/*
+--------------------------------------------------------------------------------------------- 
+#single-areaclinica 
+---------------------------------------------------------------------------------------------
+*/
+#single-areaclinica{}
+#single-areaclinica .intro{}
+#single-areaclinica .intro .box{
+	background-color: #fff;
+	padding: 0px;
+	-webkit-box-shadow: 0px 5px 10px -5px rgba(0,0,0,0.1);
+	        box-shadow: 0px 5px 10px -5px rgba(0,0,0,0.1);
+}
+#single-areaclinica .intro .img-container{
+    width: 30%;
+    float: left;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+}
+#single-areaclinica .intro .img-container img{
+    width: calc(100% + 60px);
+    height: auto;
+    position: absolute;
+    right: 0px;
+    top: 50%;
+    -webkit-transform: translateY(-50%) translateX(0%);
+            transform: translateY(-50%) translateX(0%);
+}
+#single-areaclinica .intro .text-container{
+	width: 70%;
+    margin-left: 30%;
+    padding: 60px;
+}
+#single-areaclinica .content{
+	position: relative;
+}
+#single-areaclinica .content:before{
+	content: "";
+	height: 60%;
+	width: 100vw;
+	left: 50%;
+	top: 50%;
+	position: absolute;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	        transform: translateX(-50%) translateY(-50%);
+	background-color: rgba(204,222,230, 0.3);
+}
+#single-areaclinica .content .box{
+	background-color: #fff;
+	padding: 60px;
+	-webkit-box-shadow: 0px 5px 10px -5px rgba(0,0,0,0.1);
+	        box-shadow: 0px 5px 10px -5px rgba(0,0,0,0.1);
+}
+#single-areaclinica .experts{
+	position: relative;
+}
+#single-areaclinica .experts .container{
+	position: relative;
+	padding-top: 30px;
+}
+#single-areaclinica .experts .container:before{
+	content: "";
+	height: 260px;
+	width: 80%;
+	left: 50%;
+	top: 80px;
+	position: absolute;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	        transform: translateX(-50%) translateY(-50%);
+	background-color: rgba(212,193,207, 0.3);
+}
+#single-areaclinica .experts .card-ls .card{
+	
+}
+#single-areaclinica .experts .card .title{
+	margin-bottom: 0px;
+}
+
+#single-areaclinica .share a{
+	font-size: 22px;
+	font-size: 2.2rem;
+}
+#single-areaclinica .included .card .text-container .title{
+	min-height: 52px;
+}
+
+
+/*
+--------------------------------------------------------------------------------------------- 
+#page-areawellness 
+---------------------------------------------------------------------------------------------
+*/
+#page-areawellness{}
+#page-areawellness .card .text-container .title{
+	min-height: 52px;
+}
+
+/*
+--------------------------------------------------------------------------------------------- 
+#single-areawellness 
+---------------------------------------------------------------------------------------------
+*/
+#single-areawellness{}
+#single-areawellness .intro{}
+#single-areawellness .intro .box{
+	background-color: #fff;
+	padding: 0px;
+	-webkit-box-shadow: 0px 5px 10px -5px rgba(0,0,0,0.1);
+	        box-shadow: 0px 5px 10px -5px rgba(0,0,0,0.1);
+}
+#single-areawellness .intro .img-container{
+    width: 30%;
+    float: left;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+}
+#single-areawellness .intro .img-container img{
+    width: calc(100% + 60px);
+    height: auto;
+    position: absolute;
+    right: 0px;
+    top: 50%;
+    -webkit-transform: translateY(-50%) translateX(0%);
+            transform: translateY(-50%) translateX(0%);
+}
+#single-areawellness .intro .text-container{
+	width: 70%;
+    margin-left: 30%;
+    padding: 60px;
+}
+#single-areawellness .content{
+	position: relative;
+}
+#single-areawellness .content:before{
+	content: "";
+	height: 60%;
+	width: 100vw;
+	left: 50%;
+	top: 50%;
+	position: absolute;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	        transform: translateX(-50%) translateY(-50%);
+	background-color: rgba(204,222,230, 0.3);
+}
+#single-areawellness .content .box{
+	background-color: #fff;
+	padding: 60px;
+	-webkit-box-shadow: 0px 5px 10px -5px rgba(0,0,0,0.1);
+	        box-shadow: 0px 5px 10px -5px rgba(0,0,0,0.1);
+}
+#single-areawellness .experts{
+	position: relative;
+}
+#single-areawellness .experts .container{
+	position: relative;
+	padding-top: 30px;
+}
+#single-areawellness .experts .container:before{
+	content: "";
+	height: 260px;
+	width: 80%;
+	left: 50%;
+	top: 50%;
+	position: absolute;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	        transform: translateX(-50%) translateY(-50%);
+	background-color: rgba(212,193,207, 0.3);
+}
+#single-areawellness .experts .card-ls .card{
+	
+}
+#single-areawellness .experts .card .title{
+	margin-bottom: 0px;
+}
+
+#single-areawellness .share a{
+	font-size: 22px;
+	font-size: 2.2rem;
+}
+#single-areawellness .card-ls .card .text-container .title,
+#single-areaclinica .card-ls .card .text-container .title{ 
+	min-height: 52px;
+}
+#single-areawellness .card-ls .card .text-container .description,
+#single-areaclinica .card-ls .card .text-container .description{ 
+	min-height: 200px;
+}
+
+
+
+
+/*
+--------------------------------------------------------------------------------------------- 
+MEDIAQUERIES 
+---------------------------------------------------------------------------------------------
+*/
+@media (max-width: 991px) {
+	#single-areawellness .intro .text-container,
+	#single-areaclinica .intro .text-container{
+		width: 100%;
+		margin-left: 0px;
+	}
+	#single-areawellness .intro .img-container,
+	#single-areaclinica .intro .img-container{
+		width: auto;
+		max-width: 80%;
+		float: none;
+		position: relative;
+		margin: auto;
+	}
+	#single-areawellness .intro .img-container img,
+	#single-areaclinica .intro .img-container img{
+		position: relative;
+		transform: none;
+		width: 100%;
+		margin-bottom: 60px;
+		vertical-align: middle;
+	}
+	#single-areawellness .toggles-container .toggle .toggle-title,
+	#single-areaclinica .toggles-container .toggle .toggle-title{
+		padding: 10px 0px;
+	}
+
+
+}
+@media (max-width: 767px){
+	#single-areawellness .intro .img-container,
+	#single-areaclinica .intro .img-container{
+		max-width: 100%;
+	}
+	#single-areawellness .intro .img-container img,
+	#single-areaclinica .intro .img-container img{
+		margin-bottom: 0px;
+	}
+	#single-areawellness .intro .text-container,
+	#single-areawellness .content .box,
+	#single-areaclinica .intro .text-container,
+	#single-areaclinica .content .box{
+		padding: 30px;
+	}
+	#single-areawellness .intro .text-container .content-editor,
+	#single-areaclinica .intro .text-container .content-editor{
+		margin-bottom: 30px;
+	}
+	#single-areawellness .toggles-container .toggle .toggle-title,
+	#single-areaclinica .toggles-container .toggle .toggle-title{
+		padding: 5px 0px;
+	}	
+	#single-areawellness .experts .container:before,
+	#single-areaclinica .experts .container:before{
+	    top: 0px;
+	    -webkit-transform: translateX(-50%) translateY(0);
+	            transform: translateX(-50%) translateY(0);
+	    height: 100%;
+	    display: block;
+	    max-width: 300px;
+	}
+	#single-areawellness .experts .card,
+	#single-areaclinica .experts .card{
+		max-width: 400px;
+		margin: auto;
+		margin-bottom: 30px;
+	}
+}
+
+

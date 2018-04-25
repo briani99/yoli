@@ -1,0 +1,712 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Healthcoach version 1.0\n"
+"POT-Creation-Date: 2016-11-29 17:13+0500\n"
+"PO-Revision-Date: 2017-01-31 13:43+0500\n"
+"Last-Translator: amir <amirkhan0617@gmail.com>\n"
+"Language-Team: Theme Kalia <muhibbur@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;_n;_x\n"
+"X-Poedit-SearchPath-0: F:\\xampp\\htdocs\\test_work\\healthcoach\\wp-content"
+"\\themes\\healthcoach\n"
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/404.php:23
+msgid ""
+"The page you are looking for no longer exists. Perhaps you can return back "
+"to the sites homepage and see if you can find what you are looking for. Or, "
+"you can try finding it with the information below."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/404.php:26
+msgid "Search for Keywords"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/404.php:32
+msgid "Back to Home"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/comments.php:54
+msgid "Leave a Reply"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/functions.php:34
+msgid "Main Menu"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/functions.php:60
+msgid "Default Sidebar"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/functions.php:62
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/functions.php:81
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/functions.php:69
+msgid "Footer Sidebar"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/functions.php:71
+msgid "Widgets in this area will be shown in Footer Area."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/functions.php:79
+msgid "Blog Listing"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/functions.php:172
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/functions.php:173
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/functions.php:174
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/functions.php:180
+msgid "on"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/header.php:37
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:259
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes_old/contact_form.php:28
+msgid "Phone"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/header.php:62
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/header.php:64
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/header.php:130
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/header.php:132
+msgid "Health Coach"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:25
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:69
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:352
+msgid "All Categories"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:49
+msgid "No Sidebar"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:116
+msgid "Home"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:164
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:165
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:166
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:167
+msgid "Archive for "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:168
+msgid "Search Results for "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:169
+msgid "404 - Not Found"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:187
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:214
+msgid "You must agreed the policy"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:224
+msgid "Registration Successful - An email is sent"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:228
+msgid "Username or email already exists.  Password inherited."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:242
+msgid "commenter"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:251
+msgid "Reply"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:280
+msgid "Your Name"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:281
+msgid "You Email"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:283
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:295
+msgid "Comments"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:298
+msgid "Your email address will not be published."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:303
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:304
+msgid "Cancel reply"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:305
+msgid "Submit now"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:587
+msgid "Poor"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:587
+msgid "Satisfactory"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:587
+msgid "Good"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:587
+msgid "Better"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:587
+msgid "Awesome"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:609
+#, php-format
+msgid "Average Rating %s"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:649
+msgid "Loading..."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/functions.php:698
+msgid "logo"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:10
+msgid "Health Coach Footer Recent Post"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:10
+msgid "Show the Footer Recent Posts"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:55
+msgid "Recents News"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:60
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:343
+msgid "Title: "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:64
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:347
+msgid "No. of Posts:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:68
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:351
+msgid "Category"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:104
+msgid "Health Coach Abous Us"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:104
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:180
+msgid "Show the information about company"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:151
+msgid "Image Url:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:152
+msgid "Image Url"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:155
+msgid "Content:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:159
+msgid "Button Text:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:160
+msgid "Button Text"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:163
+msgid "External Link:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:164
+msgid "External Link"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:180
+msgid "Health Coach Contact Us"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:195
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:258
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes_old/appointment.php:26
+msgid "Phone:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:196
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:262
+msgid "Email:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:197
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:266
+msgid "Address:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:212
+msgid "Your Email"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:254
+msgid "Title:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:255
+msgid "Title"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:263
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes_old/contact_form.php:27
+msgid "Email"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:270
+msgid "Sub Title:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:271
+msgid "Sub Title"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:274
+msgid "Description:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:275
+msgid "Description"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:278
+msgid "Form id:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:279
+msgid "Form Id"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:293
+msgid "Health Coach Blog Recent News"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:293
+msgid "Show the Blog Recent News"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/library/widgets.php:338
+msgid "Blog Recents News"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/loader.php:149
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/loader.php:150
+msgid "Theme Options"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/loader.php:153
+msgid "Facebook"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/loader.php:153
+msgid "Twitter"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/loader.php:153
+msgid "Dribble"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/loader.php:153
+msgid "Github"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/loader.php:154
+msgid "Flickr"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/loader.php:154
+msgid "Google+"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/loader.php:154
+msgid "Youtube"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes/appointment_form.php:26
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes/consultation_form.php:20
+msgid "Office Hours :"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes/blog_grid_view.php:28
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes/news_and_articles.php:38
+msgid "by"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes/get_in_touch.php:47
+msgid "Address :"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes/get_in_touch.php:48
+msgid "Ask Some Thing Us :"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes/get_in_touch.php:49
+msgid "Call Us:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes/our_clients.php:12
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes_old/clients.php:14
+msgid "image"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes_old/appointment.php:12
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes_old/banner.php:6
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes_old/banner_three.php:7
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes_old/banner_two.php:8
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes_old/checkout_services.php:41
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes_old/feature_services.php:30
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes_old/feature_services_2.php:12
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes_old/history.php:26
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes_old/what_we_do.php:27
+msgid "Image"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes_old/contact_form.php:29
+msgid "Fax"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes_old/contact_form.php:30
+msgid "Website"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/modules/shortcodes_old/product_carousel.php:38
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/content-product_old.php:87
+msgid "VIEW DETAILS"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:912
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2618
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1019
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/plugins.php:63
+msgid "Theme Support (Required)"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/plugins.php:74
+msgid "Revolution Slider"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/plugins.php:85
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/plugins.php:96
+msgid "Contact Form 7"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/thirdparty/tgm-plugin-activation/plugins.php:101
+msgid "Woocommerce"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/vc_map.php:6
+msgid "bbPress Forums"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/vc_map.php:9
+msgid "Jollyall"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/vc_map.php:16
+msgid "Forum"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/vc_map.php:179
+msgid "Container"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/includes/vc_map.php:182
+msgid "Choose whether you want to add a container before row or not."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/search.php:72
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/searchform.php:5
+msgid "Search.."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/sidebar.php:15
+msgid "by : "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/sidebar.php:17
+msgid "in : "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/sidebar.php:19
+msgid " 123 Likes "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/sidebar.php:21
+msgid " Print "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/sidebar.php:35
+msgid "Read More"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/single-bunch_gallery.php:86
+msgid "Gallery Info"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/single-bunch_gallery.php:90
+msgid "Customer :"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/single-bunch_gallery.php:91
+msgid "Live Demo :"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/single-bunch_gallery.php:92
+msgid "Category :"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/single-bunch_gallery.php:93
+msgid "Skill :"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/single-bunch_gallery.php:94
+msgid "Date Post :"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/single-bunch_gallery.php:104
+msgid "-"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/single.php:82
+msgid "Pages: "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/single.php:86
+msgid "Did You Like This Post? Share it :"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/cart/cart-totals.php:24
+msgid "Subtotal"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/cart/cart-totals.php:61
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/cart/cart.php:29
+msgid "Total"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/cart/cart.php:26
+msgid "Product"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/cart/cart.php:27
+msgid "Price"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/cart/cart.php:28
+msgid "Quantity"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/cart/cart.php:68
+msgid "Available on backorder"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/cart/cart.php:108
+msgid "Remove this item"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/cart/cart.php:163
+msgid "Shipping"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/checkout/payment.php:34
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/checkout/payment.php:34
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/checkout/payment.php:41
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/single-product/related.php:45
+msgid "Related Products"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\healthcoach\wp-content\themes\healthcoach/woocommerce/single-product/related.php:50
+msgid "Shop More Products"
+msgstr ""
