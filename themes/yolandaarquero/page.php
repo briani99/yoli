@@ -3,7 +3,7 @@
 	<?php get_header(); ?>
 
 	
-    <body class="home page-template page-template-front-page page-template-front-page-php page page-id-77 page-home en">
+    <body class="page-template page-template-front-page page-template-front-page-php page page-id-77 en">
 		
 	   <div id="page" class="site-page">
 				

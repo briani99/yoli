@@ -13,7 +13,7 @@
 			<main id="main" class="site-main">
 				
 				<section id="home-hero" class="">
-					<div class="bg" style="background-image: url(<?php echo get_bloginfo('template_directory'); ?>/img/YolandaArquero39.jpg);"></div>
+					<div class="bg" style="background-image: url(<?php echo get_bloginfo('template_directory'); ?>/img/open.jpg);"></div>
 					<div class="centered">
 						<div class="container">
 							<div class="row">

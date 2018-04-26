@@ -3758,4 +3758,11 @@ MEDIAQUERIES
 	}
 }
 
+.flags {
+	margin-left: 20px
+}
 
+.lang-item {
+	display: inline-block;
+	
+}
