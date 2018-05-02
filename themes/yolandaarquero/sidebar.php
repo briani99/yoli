@@ -28,7 +28,16 @@
 						
 	
 						<form role="search" method="get" id="searchform" class="searchform" action="https://yolandaarquero.com/" >
-	                       <div class="searchform-inner"><label class="screen-reader-text hidden" for="s">Search for:</label>
+	                       <div class="searchform-inner"><label class="screen-reader-text hidden" for="s">
+
+<?php if(get_locale() == 'en_GB') : ?>
+		Search
+<?php elseif(get_locale() == 'es_ES') : ?>					
+		Buscar
+<?php else : ?>					
+		Trobar						
+<?php endif; ?>		   
+						   </label>
 	                           <input type="text" value="" name="s" id="s" placeholder="Search"/>
 		                       <button type="submit" id="searchsubmit"><i class="fa fa-search"></i></button>
 	                       </div>
@@ -63,7 +72,7 @@
 </ul></div></div>
 </li>
 <li id="menu-item-747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-747">
-	<a href="health-programmes/index.html" class="menu-image-title-after"><span class="menu-image-title">Personal Coaching</span></a>
+	<a href="health-programmes/index.html" class="menu-image-title-after"><span class="menu-image-title">Coaching</span></a>
 	<span class='sub-menu-trigger'><i class='fa fa-angle-down'></i></span>
 <div class='sub-menu-outer'><div class='container'><ul class='sub-menu'>
 	<li id="menu-item-749" class="menu-item menu-item-type-taxonomy menu-item-object-categoria-programas menu-item-749">
@@ -72,34 +81,17 @@
 		<span class="menu-image-title">Personal Coaching</span></a></li>
 	<li id="menu-item-1271" class="menu-item menu-item-type-taxonomy menu-item-object-categoria-programas menu-item-1271">
 		<a href="weight-loss-clinic/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
-		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/pliates.jpg" class="menu-image menu-image-title-below" alt="" />
+		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/pilates.jpg" class="menu-image menu-image-title-below" alt="" />
 		<span class="menu-image-title">Coach Pilates</span></a></li>
-	
-</ul></div></div>
-</li>
-
-<li id="menu-item-12671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12671">
-<a href="method-sha/index.html" class="menu-image-title-after"><span class="menu-image-title">Business Coaching</span></a><span class='sub-menu-trigger'><i class='fa fa-angle-down'></i></span>
-<div class='sub-menu-outer'><div class='container'>
-<ul class='sub-menu'>
-	<li id="menu-item-12661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12661">
+		<li id="menu-item-12661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12661">
 		<a href="method-sha/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
 			src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/business.jpg" class="menu-image menu-image-title-below" alt="" />
 		<span class="menu-image-title">Business Coaching</span>
 		</a>
 	</li>
-	<li id="menu-item-7801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7801">
-		<a href="healthy-nutrition/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
-			src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/clapping.jpg" class="menu-image menu-image-title-below" alt="" />
-		<span class="menu-image-title">Corporate Workshops</span></a>
-	</li>
-	<li id="menu-item-3251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3251">
-		<a href="clinic-area/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
-		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/speaking.jpg" class="menu-image menu-image-title-below" alt="" />
-		<span class="menu-image-title">Speaking</span></a></li>
-
 </ul></div></div>
 </li>
+
 
 <li id="menu-item-1270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1270">
 	<a href="facilities/index.html" class="menu-image-title-after"><span class="menu-image-title">Maternity Coaching</span></a>
@@ -192,91 +184,65 @@
 	<li id="menu-item-749" class="menu-item menu-item-type-taxonomy menu-item-object-categoria-programas menu-item-749">
 		<a href="wellness-clinic/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
 		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/personalCoaching.jpg" class="menu-image menu-image-title-below" alt="" />
-		<span class="menu-image-title">Personal Coaching</span></a></li>
+		<span class="menu-image-title">Coaching Personal</span></a></li>
 	<li id="menu-item-1271" class="menu-item menu-item-type-taxonomy menu-item-object-categoria-programas menu-item-1271">
 		<a href="weight-loss-clinic/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
-		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/pliates.jpg" class="menu-image menu-image-title-below" alt="" />
+		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/pilates.jpg" class="menu-image menu-image-title-below" alt="" />
 		<span class="menu-image-title">Coach Pilates</span></a></li>
 	<li id="menu-item-12661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12661">
 		<a href="method-sha/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
 			src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/business.jpg" class="menu-image menu-image-title-below" alt="" />
-		<span class="menu-image-title">Business Coaching</span>
+		<span class="menu-image-title">Coaching por Negocios</span>
 		</a>
 	</li>
-	<li id="menu-item-7801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7801">
-		<a href="healthy-nutrition/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
-			src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/clapping.jpg" class="menu-image menu-image-title-below" alt="" />
-		<span class="menu-image-title">Corporate Workshops</span></a>
-	</li>
-</ul></div></div>
-</li>
-
-<li id="menu-item-12671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12671">
-<a href="method-sha/index.html" class="menu-image-title-after"><span class="menu-image-title">Business Coaching</span></a><span class='sub-menu-trigger'><i class='fa fa-angle-down'></i></span>
-<div class='sub-menu-outer'><div class='container'>
-<ul class='sub-menu'>
-	<li id="menu-item-12661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12661">
-		<a href="method-sha/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
-			src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/business.jpg" class="menu-image menu-image-title-below" alt="" />
-		<span class="menu-image-title">Business Coaching</span>
-		</a>
-	</li>
-	<li id="menu-item-7801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7801">
-		<a href="healthy-nutrition/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
-			src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/clapping.jpg" class="menu-image menu-image-title-below" alt="" />
-		<span class="menu-image-title">Corporate Workshops</span></a>
-	</li>
-	<li id="menu-item-3251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3251">
-		<a href="clinic-area/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
-		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/speaking.jpg" class="menu-image menu-image-title-below" alt="" />
-		<span class="menu-image-title">Speaking</span></a></li>
 
 </ul></div></div>
 </li>
+
 
 <li id="menu-item-1270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1270">
-	<a href="facilities/index.html" class="menu-image-title-after"><span class="menu-image-title">Maternity Coaching</span></a>
+	<a href="facilities/index.html" class="menu-image-title-after"><span class="menu-image-title">Coaching Maternidad</span></a>
 	<span class='sub-menu-trigger'><i class='fa fa-angle-down'></i></span>
 <div class='sub-menu-outer'><div class='container'><ul class='sub-menu'>
 	<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344">
 		<a href="sha-alicante-spain/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
 		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/maternity.jpg" class="menu-image menu-image-title-below" alt="" />
-		<span class="menu-image-title">Maternity Support</span></a></li>
+		<span class="menu-image-title">Suporte Maternidad</span></a></li>
 	<li id="menu-item-697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-697">
 		<a href="facilities/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
 		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/pregnancypilates.jpg" class="menu-image menu-image-title-below" alt="" s
-		<span class="menu-image-title">Pregnancy Pilates</span></a></li>
+		<span class="menu-image-title">Pilates Maternidad</span></a></li>
 	<li id="menu-item-346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-346">
 		<a href="hotel-sha/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
 		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/baby.jpg" class="menu-image menu-image-title-below" alt="" />
-		<span class="menu-image-title">Baby Massage</span></a></li>
+		<span class="menu-image-title">Masaje Bebe</span></a></li>
 	<li id="menu-item-32718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32718">
 		<a href="sha-residences/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
 		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/Postnataldepression.jpg" class="menu-image menu-image-title-below" alt="" />
-		<span class="menu-image-title">Post Natal Depression</span></a></li>
+		<span class="menu-image-title">Depresion post natal</span></a></li>
 </ul></div></div>
 </li>
 
 <li id="menu-item-12704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1270">
-	<a href="facilities/index.html" class="menu-image-title-after"><span class="menu-image-title">About</span></a>
+	<a href="facilities/index.html" class="menu-image-title-after"><span class="menu-image-title">Mas</span></a>
 	<span class='sub-menu-trigger'><i class='fa fa-angle-down'></i></span>
 <div class='sub-menu-outer'><div class='container'><ul class='sub-menu'>
 	<li id="menu-item-3444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344">
 		<a href="sha-alicante-spain/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
-		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/maternity.jpg" class="menu-image menu-image-title-below" alt="" />
-		<span class="menu-image-title">About Yolanda</span></a></li>
+		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/yolanda.png" class="menu-image menu-image-title-below" alt="" />
+		<span class="menu-image-title">Sobre Yolanda</span></a></li>
 	<li id="menu-item-697d4" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-697">
 		<a href="facilities/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
-		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/pregnancypilates.jpg" class="menu-image menu-image-title-below" alt="" s
-		<span class="menu-image-title">Location</span></a></li>
+		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/map.png" class="menu-image menu-image-title-below" alt="" s
+		<span class="menu-image-title">Direcion</span></a></li>
 	<li id="menu-item-697gd4" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-697g">
 		<a href="facilities/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
-		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/pregnancypilates.jpg" class="menu-image menu-image-title-below" alt="" s
-		<span class="menu-image-title">Testimonials</span></a></li>
+		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/stars.jpg" class="menu-image menu-image-title-below" alt="" s
+		<span class="menu-image-title">testimoniales</span></a></li>
 	<li id="menu-item-69742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6972">
 		<a href="facilities/index.html" class="menu-image-title-below menu-image-not-hovered"><img width="600" height="300" 
-		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/pregnancypilates.jpg" class="menu-image menu-image-title-below" alt="" s
-		<span class="menu-image-title">FAQs</span></a></li>
+		src="<?php echo get_bloginfo('template_directory'); ?>/img/menu/faqs.jpg" class="menu-image menu-image-title-below" alt="" s
+		<span class="menu-image-title">Preguntas</span></a></li>
 
 </ul></div></div>
 </li>
@@ -292,15 +258,21 @@
 					</div>
 </nav>
 
-
-
 <?php else : ?>
 		
 <?php endif; ?>
 
 
 				<div class="cta pull-right">
-					<a href="online-reservations/index.html" class="button special">Enquire</a>
+					<a href="online-reservations/index.html" class="button special">
+<?php if(get_locale() == 'en_GB') : ?>
+		Enquire
+<?php elseif(get_locale() == 'es_ES') : ?>					
+		Contactanos
+<?php else : ?>					
+		Contact						
+<?php endif; ?>				
+					</a>
 					<a href="mailto:yolanda@terapiapositiva.es" class="mail"><i class="fa-fa-email"></i></a>
 					<a href="tel:+34662566961" class="phone"><i class="fa fa-phone"></i></a>
 					<a href="intent://send/+34662566961#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end" class="phone">

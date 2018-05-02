@@ -13,13 +13,13 @@
 			<main id="main" class="site-main">
 				
 				<section id="home-hero" class="">
-					<div class="bg" style="background-image: url(<?php echo get_bloginfo('template_directory'); ?>/img/open.jpg);"></div>
+					<div class="bg" style="background-image: url(<?php echo get_bloginfo('template_directory'); ?>/img/main.jpeg);"></div>
 					<div class="centered">
 						<div class="container">
 							<div class="row">
 								<div class="col-xs-12 text-center">
-									<h1 class="label">Terapia Positiva</h1>
-									<h2 class="subtitle">Terapia Positiva por el cupero, el mente y la alma</h2>
+									<h1 class="label">Yolanda Arquero</h1>
+									<h2 class="subtitle">Terapia Positiva para su cuerpo y su mente</h2>
 									
 								</div>
 							</div>
@@ -32,7 +32,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12 text-center">
-							<h2 class="section-title h2">Programmes</h2>
+							<h2 class="section-title h2">Servicios</h2>
 							<p>Our health programmes are created in order to attain physical-mental wellbeing</p>
 						</div>
 					</div>
